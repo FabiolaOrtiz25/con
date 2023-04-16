@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-vector-minimalistic-creative-watercolor-beauty-poster-background-image_178156.jpg)
+}
+
+td{
+    background:rgb(248, 191, 224);
+    
+}
+
+td:hover{
+    filter: opacity(.6);
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+}
+
+a{
+    border-radius: 5px;
+    padding: 05px 7px;
+    text-decoration: none;
+    color: black;
+    background-color: #ff4ebb;
+    margin: 5px;
+  }
